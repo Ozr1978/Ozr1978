@@ -86,9 +86,4 @@ Explore my repositories for more projects!
   <i>Always learning. Always building. One project at a time.</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ozr1978/Ozr1978/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ozr1978/Ozr1978/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ozr1978/Ozr1978/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 
