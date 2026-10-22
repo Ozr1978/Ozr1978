@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">I'm Omar Rami Abu Yousef</h1>
 <h3 align="center">Aspiring Full-Stack Developer from Jordan 🇯🇴</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software development student at Hashemite University.
+- 🎓 Software enginner student at Hashemite University.
 - 🛠️ Enjoy building practical projects and solving programming challenges.
 - 🌱 Currently developing my backend development skills.
 - 🎯 My goal is to become a well-rounded Full-Stack Developer.
