@@ -20,7 +20,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software development student at Hashemite University.
-- 📚 Completed the freeCodeCamp JavaScript curriculum.
 - 🛠️ Enjoy building practical projects and solving programming challenges.
 - 🌱 Currently developing my backend development skills.
 - 🎯 My goal is to become a well-rounded Full-Stack Developer.
@@ -65,13 +64,9 @@ Explore my repositories for more projects!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ozr1978/Ozr1978/languages-output/languages.svg?layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Most used programming languages"
-  />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Ozr1978/Ozr1978/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <p align="center">
   <img
